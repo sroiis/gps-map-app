@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/gps-map-app/static/css/main.88cf321f.css",
-    "main.js": "/gps-map-app/static/js/main.7fa03f7e.js",
-    "static/js/453.a14bfa55.chunk.js": "/gps-map-app/static/js/453.a14bfa55.chunk.js",
+    "main.js": "/gps-map-app/static/js/main.fcb6feee.js",
     "index.html": "/gps-map-app/index.html",
     "main.88cf321f.css.map": "/gps-map-app/static/css/main.88cf321f.css.map",
-    "main.7fa03f7e.js.map": "/gps-map-app/static/js/main.7fa03f7e.js.map",
-    "453.a14bfa55.chunk.js.map": "/gps-map-app/static/js/453.a14bfa55.chunk.js.map"
+    "main.fcb6feee.js.map": "/gps-map-app/static/js/main.fcb6feee.js.map"
   },
   "entrypoints": [
     "static/css/main.88cf321f.css",
-    "static/js/main.7fa03f7e.js"
+    "static/js/main.fcb6feee.js"
   ]
 }
